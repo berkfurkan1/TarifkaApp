@@ -1,3 +1,30 @@
+# Tarifka App
+This application is a recipe app that allows users to easily browse various meal recipes.
+
+Features of the Application:
+Category Page: On the main page, meals are listed in categories (e.g., Seafood, Desserts, etc.).
+Meal List Page: When a user clicks on a category, they are directed to a page listing the meals within that category.
+Meal Detail Page: When a user selects a meal, the app displays the meal's details (name, photo, description, and preparation information).
+Data Source
+The app retrieves meal information from https://www.themealdb.com/api.php. This API provides details such as meal names, categories, recipe descriptions, and images.
+
+In summary, this is a meal discovery and recipe app that enables users to explore meals from different categories and access recipe details.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Tarifka App
+Bu uygulama, kullanıcıların çeşitli yemek tariflerine kolayca göz atmasını sağlayan bir yemek tarifi uygulamasıdır.
+
+Uygulamanın Özellikleri:
+Kategori Sayfası: Ana sayfada, yemekler kategorilere ayrılmış olarak listelenir (örneğin, Deniz Ürünleri, Tatlılar vb.).
+Yemek Listesi Sayfası: Kullanıcı bir kategoriye tıkladığında, o kategoriye ait yemeklerin listelendiği sayfaya yönlendirilir.
+Yemek Detay Sayfası: Kullanıcı bir yemeği seçtiğinde, yemeğin detayları (adı, fotoğrafı, açıklaması ve hazırlanış bilgileri) görüntülenir.
+Veri Kaynağı
+Uygulama, yemek bilgilerini https://www.themealdb.com/api.php adresinden çekiyor. Bu API, yemeklerin isimlerini, kategorilerini, tarif detaylarını ve resimlerini sağlıyor.
+
+Özetle, bu uygulama bir yemek keşif ve tarif uygulaması olup, kullanıcıların farklı kategorilerdeki yemekleri inceleyip tarif detaylarına ulaşmasını sağlıyor.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
