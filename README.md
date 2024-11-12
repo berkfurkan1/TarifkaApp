@@ -1,7 +1,3 @@
-![appphoto1_categories](https://github.com/berkfurkan1/TarifkaApp/blob/main/tarifka_1.png)  
-![appphoto2_listOfCategories](https://github.com/berkfurkan1/TarifkaApp/blob/main/tarifka_2.png)
-![appphoto3_detail](https://github.com/berkfurkan1/TarifkaApp/blob/main/tarifka_3.png)
-![appphoto4_youtubeButton](https://github.com/berkfurkan1/TarifkaApp/blob/main/tarifka_4.png)
 # Tarifka App
 This application is a recipe app that allows users to easily browse various meal recipes.
 
@@ -28,7 +24,11 @@ Uygulama, yemek bilgilerini https://www.themealdb.com/api.php adresinden çekiyo
 Özetle, bu uygulama bir yemek keşif ve tarif uygulaması olup, kullanıcıların farklı kategorilerdeki yemekleri inceleyip tarif detaylarına ulaşmasını sağlıyor.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+![appphoto1_categories](https://github.com/berkfurkan1/TarifkaApp/blob/main/tarifka_1.png)  
+![appphoto2_listOfCategories](https://github.com/berkfurkan1/TarifkaApp/blob/main/tarifka_2.png)
+![appphoto3_detail](https://github.com/berkfurkan1/TarifkaApp/blob/main/tarifka_3.png)
+![appphoto4_youtubeButton](https://github.com/berkfurkan1/TarifkaApp/blob/main/tarifka_4.png)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
